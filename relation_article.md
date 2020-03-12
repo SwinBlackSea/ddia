@@ -7,3 +7,5 @@ B\B-\B+\B*: https://www.jianshu.com/p/7323130d351b
 OLTP-OLAP: https://www.jianshu.com/p/b1d7ca178691
 
 LSM-B: https://www.jianshu.com/p/d52edc9f33df
+
+R树: https://www.cnblogs.com/cmi-sh-love/p/kong-jian-shud-ju-suo-yinRTree-wan-quan-jie-xi-jiJa.html
