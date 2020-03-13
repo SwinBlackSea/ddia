@@ -6,10 +6,14 @@ BRT可视化工具1: http://algoanim.ide.sk/index.php?page=showanim&id=63
 
 BRT可视化工具2: https://www.codelike.in/animation/red-black-tree/
 
-B\B-\B+\B*: https://www.jianshu.com/p/7323130d351b
+B/B-/B+/B*: https://www.jianshu.com/p/7323130d351b
 
 OLTP-OLAP: https://www.jianshu.com/p/b1d7ca178691
 
 LSM-B: https://www.jianshu.com/p/d52edc9f33df
 
 R树: https://www.cnblogs.com/cmi-sh-love/p/kong-jian-shud-ju-suo-yinRTree-wan-quan-jie-xi-jiJa.html
+
+RPC/REST: https://www.jianshu.com/p/e3c4b2837961
+
+RPC原理: 链接: https://pan.baidu.com/s/1ivkKHgRbHH2nr6XKkZgawg 提取码: hmxu
